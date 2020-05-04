@@ -3,7 +3,10 @@
     {
       "section": "About AntSignals",
       "topics": [
-
+        {
+          "title": "About AntSignals",
+          "slug": "about"
+        }
       ]
     },
     {
